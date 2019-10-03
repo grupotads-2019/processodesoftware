@@ -1,0 +1,24 @@
+Eu como cliente preciso que o motorista se cadastre no aplicativo para que ele possa gerenciar seus grupos.
+
+* Cadastro de motorista.   1
+
+Como motorista preciso que o aplicativo gerencie os alunos de uma van para definir a qual grupo o aluno pertence.
+
+* Cadastro de aluno.   2
+* Cadastro de grupo    2
+* Tela de movimentação grupo X aluno. 5 
+
+Preciso que os alunos informe sua localização para definir a rota ao motorista.
+
+* Efetuar Login. 5
+* Inserir localização.  8
+
+Como motorista preciso que o aplicativo gere uma rota de acorda com as localizações do alunos do grupo que eu selecionar.
+
+* Gerar rota de navegação. 13
+
+
+Total: 33
+-------------------------------------------------------------------------------
+
+
